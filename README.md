@@ -2,4 +2,4 @@
 Un dossier test pour voir si cela fonctionne
 my life is potato. I love rotatocamion.
 
-Bannania
+Banania, c'est délicieux !
